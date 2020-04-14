@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="435px" height="303px" viewBox="0 0 435 303" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="217.5" cy="217.5" r="217.5"></circle>
+        <rect id="path-3" x="0" y="0" width="495.341615" height="383.214286"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A2-Copy-9" transform="translate(-885.000000, -630.000000)">
+            <g id="Group" transform="translate(885.000000, 630.000000)">
+                <g id="Group-2">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Oval-Copy-2"></g>
+                    <g id="logo" mask="url(#mask-2)">
+                        <g transform="translate(-22.515528, -145.000000)" id="arc">
+                            <g>
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Rectangle" stroke="#27404F" stroke-width="4.50310559" xlink:href="#path-3"></use>
+                                <rect id="Rectangle" stroke="#27404F" stroke-width="4.50310559" mask="url(#mask-4)" x="13.5093168" y="13.5252101" width="463.819876" height="613.142857" rx="43.6801242"></rect>
+                                <ellipse id="Oval" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)" cx="238.664596" cy="392.231092" rx="72.0496894" ry="72.1344538"></ellipse>
+                                <line x1="10.8127453" y1="298.902741" x2="166.614907" y2="368.176002" id="Path-4" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)"></line>
+                                <line x1="24.077388" y1="181.983345" x2="191.724344" y2="338.130252" id="Path-4-Copy" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)"></line>
+                                <line x1="102.291559" y1="61.0981401" x2="212.913675" y2="320.096639" id="Path-4-Copy-2" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)"></line>
+                                <line x1="238.664596" y1="13.5252101" x2="238.664596" y2="320.096639" id="Path-4-Copy-3" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)"></line>
+                                <line x1="265.68323" y1="51.9823425" x2="380.516732" y2="322.116146" id="Path-4-Copy-2" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)" transform="translate(323.099981, 187.049244) scale(1, -1) translate(-323.099981, -187.049244) "></line>
+                                <line x1="291.678432" y1="175.827731" x2="469.355031" y2="340.801775" id="Path-4-Copy" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)" transform="translate(380.516732, 258.314753) scale(1, -1) translate(-380.516732, -258.314753) "></line>
+                                <line x1="304.554814" y1="287.709697" x2="477.329193" y2="364.796801" id="Path-4" stroke="#000000" stroke-width="4.50310559" mask="url(#mask-4)" transform="translate(390.942003, 326.253249) scale(1, -1) translate(-390.942003, -326.253249) "></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M124.097034,302.881988 L124.097034,278.299534 L138.08278,302.881988 L144.049394,302.881988 L158.03514,278.299534 L158.03514,302.881988 L169.013711,302.881988 L169.013711,267.368696 L153.78691,267.368696 L141.471817,289.469037 L129.204457,267.368696 L113.40486,267.368696 L113.40486,302.881988 L124.097034,302.881988 Z M203.190481,302.881988 L220.374332,267.368696 L208.822966,267.368696 L196.555606,293.478602 L183.476786,267.368696 L170.875295,267.368696 L189.347935,302.881988 L203.190481,302.881988 Z M232.92809,302.881988 L232.92809,278.299534 L246.913835,302.881988 L252.88045,302.881988 L266.866196,278.299534 L266.866196,302.881988 L277.844767,302.881988 L277.844767,267.368696 L262.617966,267.368696 L250.302873,289.469037 L238.035512,267.368696 L222.235916,267.368696 L222.235916,302.881988 L232.92809,302.881988 Z M308.107438,302.881988 L308.107438,275.769689 L323.429705,275.769689 L323.429705,267.368696 L281.615668,267.368696 L281.615668,275.769689 L296.890202,275.769689 L296.890202,302.881988 L308.107438,302.881988 Z" id="MVMT" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

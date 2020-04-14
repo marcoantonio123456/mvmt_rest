@@ -2382,7 +2382,7 @@ figcaption {
 }
 
 .section.page-content-section {
-    margin-bottom: 96px;
+    margin-bottom: 16px;
 }
 
 .section.page-content-section.justify-start {
@@ -2530,6 +2530,7 @@ figcaption {
 
 .centered-content.centered-content-narrow.text-center {
     max-width: 336px;
+    margin-bottom:3em;
 }
 
 .button {
