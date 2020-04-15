@@ -223,23 +223,6 @@ td, th {
 }
 
 
-.header-tilt-02{
-    text-align: left;
-    margin-left:9em;
-    margin-top:4em;
-    font-size:24px !important;
-}
-.header-tilt-03{
-    text-align: left;
-    margin-left:9em;
-    font-size:24px !important;
-}
-.header-tilt-04{
-    text-align: left;
-    margin-left:9em;
-    font-size:24px !important;
-    
-}
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -2689,6 +2672,48 @@ figcaption {
     -ms-flex: 0 auto;
     flex: 0 auto;
 }
+
+
+.header-tilt-02{
+    text-align: left;
+    margin-left:9em;
+    margin-top:4em;
+    font-size:24px !important;
+}
+.header-tilt-03{
+    text-align: left;
+    margin-left:9em;
+    font-size:24px !important;
+}
+
+@media screen and (max-width: 2400px) and (min-width: 978px){
+.mobile-menus{
+    display:none;
+}}
+
+
+@media (max-width: 1200px){
+.first-image{
+    z-index: 2 !important;
+    margin-top: 3em !important;
+}
+.header-tilt-02{
+    text-align: center !important;
+    margin-left:0em !important;
+    margin-top:0em !important;
+    font-size:15px !important;
+}
+.header-tilt-03{
+    text-align: center !important;
+    margin-left:0em !important;
+    font-size:15px !important;
+
+}
+.mobile-menus{
+    display: 
+}}
+
+
 
 .image-wrapper.image-collage-left {
     left: 24px;
