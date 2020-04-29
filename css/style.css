@@ -2601,6 +2601,7 @@ figcaption {
 .first-image{
     z-index: 2 !important;
     margin-top: 3em !important;
+    margin-bottom: 3em !important;
 }
 .header-tilt-02{
     text-align: center !important;
@@ -2613,6 +2614,9 @@ figcaption {
     margin-left:0em !important;
     font-size:15px !important;
 
+}
+.image-wrapper.home-image-2 {
+    margin-top: 3em;
 }
 .mobile-menus{
     display: 
