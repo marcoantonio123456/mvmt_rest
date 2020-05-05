@@ -134,7 +134,35 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
             <div class="centered-content">
                 <div class="narrow-form w-form">
                     <form name="contact" method="POST" data-netlify="true">
-                    <!-- <form method="POST" id="email-form" name="email-form-reservations" data-name="Email Form"  data-netlify="true"> -->
+                          <p class="form-group">
+                            <label >First Name: 
+                                <input class="form-input w-input"  type="text" name="first_name" />
+                            </label>   
+                          </p>
+                          <p class="form-group">
+                            <label >Last Name: 
+                                <input class="form-input w-input"  type="text" name="last_name" />
+                            </label>   
+                          </p>
+                          <p class="form-group">
+                            <label >Contact Number: 
+                                <input class="form-input w-input"  type="tel" name="phone" />
+                            </label>   
+                          </p>
+                          <p class="form-group">
+                            <label >Inquiry Note
+                                <textarea class="form-input form-textarea w-input"  type="text" name="Notes" />
+                                </textarea>
+                            </label>   
+                          </p>
+                          <p>
+                            <button type="submit">Send</button>
+                          </p>
+                    </form>
+
+
+
+<!--                     <form method="POST" id="email-form" name="email-form-reservations" data-name="Email Form"  data-netlify="true">
                         <div class="form-group">
                             <label for="Reservation-Name">First Name</label>
                             <input type="text" class="form-input w-input" maxlength="256" name="Reservation-FirstName" data-name="Reservation Name" id="Reservation-Name" required="" />
@@ -152,8 +180,9 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
                             <textarea id="Reservation-Message" name="Reservation-Message" placeholder="" maxlength="5000" data-name="Reservation Message" class="form-input form-textarea w-input"></textarea>
                         </div>
                         <input type="submit" value="Send" data-wait="Please wait..." class="button form-submit-button w-button" />
-<!--                         <div class="reservation-disclaimer-text text-small">*Please wait until reservation is confirmed</div> -->
-                    </form>
+                    </form> -->
+
+
                     <div class="form-message w-form-done">
                         <div>Thank you! Your submission has been received!</div>
                     </div>
