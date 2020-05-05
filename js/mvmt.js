@@ -7572,7 +7572,7 @@
         }
         return s.ready = s.design = s.preview = function() {
             !function() {
-                o = t("html").attr("data-wf-site"), u = "https://webflow.com/api/v1/form/" + o, d && u.indexOf("https://webflow.com") >= 0 && (u = u.replace("https://webflow.com", "http://formdata.webflow.com"));
+                o = t("html").attr("data-wf-site"), u = "" + o, d && u.indexOf() >= 0 && (u = u.replace("", ""));
                 if (c = "".concat(u, "/signFile"), !(n = t(p + " form")).length)
                     return;
                 n.each(T)
