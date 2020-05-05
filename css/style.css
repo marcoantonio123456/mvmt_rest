@@ -2717,7 +2717,7 @@ figcaption {
 }
 
 .menu-buttons.menu-buttons-small {
-    max-width: 500px;
+    max-width: 650px;
 }
 
 .section-title {
@@ -3293,7 +3293,7 @@ figcaption {
         -webkit-flex: 1;
         -ms-flex: 1;
         flex: 1;
-        border-bottom: 1px solid rgba(183, 109, 104, 0.5);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.5);
         border-right-style: none;
     }
 
